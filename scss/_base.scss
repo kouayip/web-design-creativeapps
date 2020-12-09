@@ -3,7 +3,8 @@ html {
 }
 
 body {
-  font-family: "Montserrat", sans-serif;
+  font-family: var(--font-family);
+  color: var(--text-color);
   font-size: 1.6rem;
   line-height: 1.3;
 }
